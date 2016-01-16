@@ -1,31 +1,27 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Jeffrey Borcean
+email: jeffrey@borcean.xyz
+description: > #
+  Jeffrey is a third year computer science student at Oregon State University,
+  he is also a student systems engineer with the OSU Open Source Lab.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://borcean.xyz" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: Jeffrey Borcean
+email: jeffrey@borcean.xyz
+facebook_username: jeffreyborcean
+twitter_username: jjborcean
+github_username: borcean
 address:
   - line:
   - line:
   # Feel free to add more lines here
-telephone:
-copyright:
+telephone: +15038043008
+copyright: Jeffrey Borcean
 
 # Google Analytics
 tracking_id: UA-72504144-1
-
-# API settings
-google_api_key:
 
 # Build settings
 markdown: kramdown
