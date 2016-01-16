@@ -17,9 +17,12 @@ github_username:
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
+
+# Google Analytics
+tracking_id: UA-72504144-1
 
 # API settings
 google_api_key:
