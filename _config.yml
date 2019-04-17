@@ -5,7 +5,7 @@ description: > #
   Jeffrey is a third year computer science student at Oregon State University,
   he is also a student systems engineer with the OSU Open Source Lab.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://borcean.xyz" # the base hostname & protocol for your site
+url: "https://borcean.xyz" # the base hostname & protocol for your site
 
 # User setting
 owner: Jeffrey Borcean
